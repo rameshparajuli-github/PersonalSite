@@ -1,0 +1,29 @@
+h1{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+#info{
+    background-color: aqua;
+    padding: 10px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
